@@ -1,5 +1,5 @@
 # Restaurant Rating
-![](intro_image.JPG)
+![](intro_image.jpg)
 
 ## Data Source
 Capstone project at *Digitaley Drive*
@@ -62,13 +62,13 @@ Consumers are primarily students (16) or employed (11), indicating a youthful an
 ## Visualization
 
 The report comprises of 2 pages:
-![](Ratings_dashboard.PNG)
+![](Ratings_dashboard.png)
 - Ratings overview
-![](Consumers_dashboard.PNG)
+![](Consumers_dashboard.png)
 - Consumer Demographics.
 
 ## Conclusion
-![](consumer_rating.JPG)
+![](consumer_rating.jpg)
 The dashboards highlight the need to align with consumer preferences by offering popular cuisines like Mexican with high food and service standards, while catering to the youthful, independent demographic through affordable and accessible options; additionally, diversifying cuisine and drink offerings presents a valuable opportunity to fill market gaps.
 
 ## Recommendation
