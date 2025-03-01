@@ -15,7 +15,7 @@ This Power BI project analyzes a Restaurant Rating dataset from a customer surve
 
 ## Modeling 
 The automatic derived table relationship were adjusted for proper connection and relationship between tables.
-![]()
+![](Modeling.png)
 
 ## Concept Execution
 The following Power Bi features were incoperated;
