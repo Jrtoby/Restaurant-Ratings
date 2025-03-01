@@ -13,6 +13,10 @@ This Power BI project analyzes a Restaurant Rating dataset from a customer surve
 3. Are there any demand and supply gaps that you can exploit in the market?
 4. If you were to invest in a restaurant, which characteristics would you be looking for?
 
+## Modeling 
+The automatic derived table relationship were adjusted for proper connection and relationship between tables.
+![]()
+
 ## Concept Execution
 The following Power Bi features were incoperated;
 
